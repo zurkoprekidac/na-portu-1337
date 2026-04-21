@@ -1,0 +1,40 @@
+body {
+	font-family: "Courier New", Courier, monospace;
+	color: #FFDE21;
+	background: #222222;
+	a:link {
+	color: #FFDE21;
+	background-color: transparent;
+	text-decoration: none;
+	}
+	a:visited {
+	color: #FFDE21;
+	background-color: transparent;
+	text-decoration: none;
+	}
+	a:hover {
+	color: #FF8800;
+	background-color: transparent;
+	text-decoration: none;
+	}
+}
+	@font-face {
+		font-family: Orbitron;
+		src: url("font/Orbitron Black.otf") format("opentype");
+	}
+	.label {
+		  color: white;
+		  padding: 8px;
+		}
+		.hackerspace {background-color: #04AA6D;} /*zelena*/
+		.edukacija {background-color: #2196F3;} /*plava*/
+		.zaSve {background-color: #ff9800;} /*nandzarasta*/
+		.hacking {background-color: #f44336;} /*chrven0*/
+		.korpo {background-color: #e7e7e7; color: black;} /*sivilo*/
+	audio {
+	background-color: #535353;
+	/*border: 1px solid #ccc; /* Add a border */
+	/*border-radius: 5px; /* Round the corners */
+	/*padding: 10px; /* Add some padding */
+	/*margin-bottom: 20px; /* Add margin below the player */
+	}
